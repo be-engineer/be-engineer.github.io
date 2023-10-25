@@ -2,7 +2,7 @@
  * @Author: be-engineer 41234995@qq.com
  * @Date: 2023-10-24 09:32:45
  * @LastEditors: be-engineer 41234995@qq.com
- * @LastEditTime: 2023-10-25 17:19:46
+ * @LastEditTime: 2023-10-25 17:52:03
  * @FilePath: \be-engineer.github.io\index.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -31,11 +31,10 @@ RouterOS是一种路由操作系统，是基于Linux核心开发，兼容x86 PC�
 
 RouterOS官网文档非常齐全，而且详细，但是只有英文版本，为了方便更多的人学习和了解RouterOS的功能和使用方法，本人新建了这个项目，把官方网站上的文档翻译为中文，希望能对大家有所帮助。
 
-<!-- .. mdinclude:: translation.md 
-[](translation.md ':include') -->
-{% include translation.md %}
+<!-- .. mdinclude:: translation.md -->
+[](translation.md ':include')
 
-.. toctree::
+<!-- .. toctree::
    :maxdepth: 1
 
    source/Getting_started/index.rst
@@ -57,4 +56,4 @@ RouterOS官网文档非常齐全，而且详细，但是只有英文版本，为
    source/System_Information_and_Utilities/index.rst
    source/Virtual_Private_Networks/index.rst
    source/Wired_Connections/index.rst
-   source/Wireless/index.rst
+   source/Wireless/index.rst -->
