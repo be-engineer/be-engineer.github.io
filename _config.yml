@@ -1,0 +1,14 @@
+# Site settings
+title: Great New Blog Title
+author:
+  name: Evan Will
+  email: your-email@domain.com
+description: "Great site about Jekyll on GH-Pages."
+
+# Build settings
+#remote_theme: jekyll/minima
+remote_theme: rundocs/jekyll-rtd-theme
+
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
